@@ -1,0 +1,16 @@
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\bin\Debug\net5.0\FileSplit.exe
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\bin\Debug\net5.0\FileSplit.deps.json
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\bin\Debug\net5.0\FileSplit.runtimeconfig.json
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\bin\Debug\net5.0\FileSplit.runtimeconfig.dev.json
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\bin\Debug\net5.0\FileSplit.dll
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\bin\Debug\net5.0\ref\FileSplit.dll
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\bin\Debug\net5.0\FileSplit.pdb
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\obj\Debug\net5.0\FileSplit.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\obj\Debug\net5.0\FileSplit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\obj\Debug\net5.0\FileSplit.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\obj\Debug\net5.0\FileSplit.AssemblyInfo.cs
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\obj\Debug\net5.0\FileSplit.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\obj\Debug\net5.0\FileSplit.dll
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\obj\Debug\net5.0\ref\FileSplit.dll
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\obj\Debug\net5.0\FileSplit.pdb
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\obj\Debug\net5.0\FileSplit.genruntimeconfig.cache
