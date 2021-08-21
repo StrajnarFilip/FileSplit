@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Yb0LU/nfHeMRr7gqOK73a2ZICt1ZHhpDJVSBdEbVf4amgfsH59ALdigFsxgagw5YDA8fvc4vvZbv37dAe82yEA==",
+  "dgSpecHash": "PisGM0LlSjvrpG8+eIac5lvMIkgYmmcyX+obiSsRhj0dm0jfUGNa568XJ9spwAM++Fb8mtzEuPV5yDK55YAmwg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Filip\\Desktop\\Organised\\C#\\FileSplit\\FileSplit.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Filip\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\5.0.7\\microsoft.netcore.app.runtime.osx-x64.5.0.7.nupkg.sha512",
+    "C:\\Users\\Filip\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\5.0.7\\microsoft.aspnetcore.app.runtime.osx-x64.5.0.7.nupkg.sha512",
+    "C:\\Users\\Filip\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\5.0.7\\microsoft.netcore.app.host.osx-x64.5.0.7.nupkg.sha512"
+  ],
   "logs": []
 }

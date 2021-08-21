@@ -1,0 +1,2 @@
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\bin\Release\net5.0\linux-arm64\publish\FileSplit.pdb
+C:\Users\Filip\Desktop\Organised\C#\FileSplit\bin\Release\net5.0\linux-arm64\publish\FileSplit
